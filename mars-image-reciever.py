@@ -4,7 +4,7 @@ import sys
 import logging
 from concurrent.futures import ThreadPoolExecutor
 
-api_key = '5aCK45kUAtTDgETwclKks07q2W3bi5XA0nJ2Zm0W'
+api_key = '-----------------------------------------------'
 api_url = 'https://api.nasa.gov/mars-photos/api/v1/rovers/'
 
 # Set up logging
